@@ -24,7 +24,7 @@
 - 💻 I am passionate about Web Development, IT, Computer Vision, and AI/ML
 - 🛠️ I love to build websites combining multiple technologies to create innovative solutions
 - 🌐 Visit my [Portfolio Website](https://portfolio-website-piyushpawar079s-projects.vercel.app/) to see my projects
-- 📚 Always learning new things and improve myself.
+- 📚 Always learning new things and improving myself.
 
 ---
 
